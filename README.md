@@ -10,8 +10,8 @@ Enum-extractor is a javascript module that extract either values or keys of the 
 > 
 > // to get the keys of the enums
 > 
-> console.log(enumExtractor.keys(enum))
+> console.log(enumExtractor.keys(DIRECTION))
 > 
 > // to get the values of the enums
 > 
-> console.log(enumExtractor.values(enum))
+> console.log(enumExtractor.values(DIRECTION))
