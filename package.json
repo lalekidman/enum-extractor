@@ -10,9 +10,14 @@
     "typescript": "^4.0.3"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Darryl Lopez Fabian",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalekidman/enum-extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lalekidman/enum-extractor/issues"
+  },
+  "homepage": "https://github.com/lalekidman/enum-extractor#readme"
 }
