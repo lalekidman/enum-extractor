@@ -1,5 +1,5 @@
-# Enum-extractor
-Enum-extractor is a javascript module that extract either values or keys of the enum variables on typescript.
+# ts-enum-extractor
+ts-enum-extractor is a typescript module that extract either values or keys of the enum variables.
 
 > enum DIRECTION = {
 >   LEFT: 1,

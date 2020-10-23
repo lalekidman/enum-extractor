@@ -1,5 +1,5 @@
 {
-  "name": "enum-extractor",
+  "name": "ts-enum-extractor",
   "version": "1.0.2",
   "description": "Enum-ts is a javascript module that extract either values or keys of the enum.",
   "main": "dist/index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/lalekidman/enum-extractor/issues"
   },
-  "homepage": "https://github.com/lalekidman/enum-extractor#readme"
+  "homepage": "https://github.com/lalekidman/enum-extractor#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
