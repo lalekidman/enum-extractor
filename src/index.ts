@@ -9,7 +9,7 @@ export const extractKeys = (enums: any): string[] => {
  * extract the values of the enum
  * @param enums 
  */
-export const extractValue = (enums: any): any[] => {
+export const extractValues = (enums: any): any[] => {
   // get enum keys
   const enumKeys = extractKeys(enums)
   // then map the array keys and then put it thru elem of enum
@@ -25,5 +25,5 @@ export default {
  * extract the values of the enum
  * @param enums 
  */
-  values: extractValue
+  values: extractValues
 }
