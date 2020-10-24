@@ -1,6 +1,6 @@
 {
   "name": "ts-enum-extractor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Enum-ts is a javascript module that extract either values or keys of the enum.",
   "main": "dist/index.js",
   "script": {
